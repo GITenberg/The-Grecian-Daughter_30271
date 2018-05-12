@@ -1,0 +1,37 @@
+_repo: The-Grecian-Daughter_30271
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Inchbald, Mrs.
+    alias: Inchbald, Elizabeth Simpson
+    birthdate: 1753
+    deathdate: 1821
+    gutenberg_agent_id: '1305'
+    url: http://www.gutenberg.org/2009/agents/1305
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Inchbald
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murphy, Arthur
+    alias: Ranger, Charles
+    birthdate: 1727
+    deathdate: 1805
+    gutenberg_agent_id: '34475'
+    url: http://www.gutenberg.org/2009/agents/34475
+description: ''
+gutenberg_issued: '2009-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcc 'PR'
+- !lcsh 'Tragedies'
+title: The Grecian Daughter
+url: http://www.gutenberg.org/ebooks/30271
